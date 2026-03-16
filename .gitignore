@@ -19,7 +19,7 @@ env/
 .DS_Store
 Thumbs.db
 
-# Model files (optional if large)
+# Model files 
 *.pkl
 
 # Temporary files
